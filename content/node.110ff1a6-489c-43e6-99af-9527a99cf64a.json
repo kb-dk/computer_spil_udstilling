@@ -1,0 +1,93 @@
+{
+    "uuid": [
+        {
+            "value": "110ff1a6-489c-43e6-99af-9527a99cf64a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "da"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "2b8c46b3-7eef-4a57-9ec0-217773755215"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-03-27T10:56:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "31eff9e1-5dc0-477b-84cb-be2bffa95215"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "31eff9e1-5dc0-477b-84cb-be2bffa95215"
+        }
+    ],
+    "title": [
+        {
+            "value": "Hj\u00e6m"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-03-27T10:42:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-03-27T10:56:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "content_translation_source": [
+        {
+            "value": "und"
+        }
+    ],
+    "content_translation_outdated": [
+        {
+            "value": false
+        }
+    ],
+    "body": [
+        {
+            "value": "<ul><li><a href=\"\/ipads\">Ipads<\/a><\/li><li><a href=\"\/skraemer\">Skraemer<\/a><\/li><\/ul>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+uuid: a6a1d6da-393b-4ba4-a4d2-48042898d6ae
+langcode: en
+status: false
+dependencies:
+  module:
+    - system
+  theme:
+    - computerspill
+_core:
+  default_config_hash: n_nlgjggHVfQt2H__zvLOKB2YtjPDbQ5tHijF9LE1aM
+id: computerspill_site_branding
+theme: computerspill
+region: content
+weight: 7
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Site branding'
+  label_display: '0'
+  provider: system
+  use_site_logo: true
+  use_site_name: true
+  use_site_slogan: false
+visibility: {  }

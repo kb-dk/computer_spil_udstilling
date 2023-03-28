@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f8468f0e-b304-4326-9cb5-3b426e49008c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/19c21bff-8a02-4a48-ae78-12d36fb5ee23"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/screen3"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

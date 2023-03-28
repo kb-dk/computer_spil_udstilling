@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "20208885-fe5c-4baf-b18e-05de2099fa82"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "da"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/a33e7378-ddb6-46fa-bf0c-07330e02de83"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/Skraem2"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

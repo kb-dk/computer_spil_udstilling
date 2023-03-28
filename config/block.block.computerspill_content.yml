@@ -1,0 +1,22 @@
+uuid: 6c54e99c-95aa-4085-a21e-229fab81c37a
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - computerspill
+_core:
+  default_config_hash: erQSEZF2XUjNmgTl0uNRBzmg18ZGXwUcw2FhApoeuHk
+id: computerspill_content
+theme: computerspill
+region: content
+weight: -6
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

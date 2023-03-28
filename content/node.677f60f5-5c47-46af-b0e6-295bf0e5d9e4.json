@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "677f60f5-5c47-46af-b0e6-295bf0e5d9e4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "2b8c46b3-7eef-4a57-9ec0-217773755215"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-03-27T12:19:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "31eff9e1-5dc0-477b-84cb-be2bffa95215"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "31eff9e1-5dc0-477b-84cb-be2bffa95215"
+        }
+    ],
+    "title": [
+        {
+            "value": "Screens"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-03-24T12:30:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-03-27T12:19:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "content_translation_source": [
+        {
+            "value": "und"
+        }
+    ],
+    "content_translation_outdated": [
+        {
+            "value": false
+        }
+    ],
+    "body": [
+        {
+            "value": "<ul><li><a href=\"\/en\/screen1\">Screen 1<\/a><\/li><li><a href=\"\/en\/screen2\">Screen<\/a><a href=\"\/skraem2\"> 2<\/a><\/li><li><a href=\"\/en\/screen3\">Screen<\/a><a href=\"\/skraem3\"> 3<\/a><\/li><li><a href=\"\/en\/screen4\">Screen<\/a><a href=\"\/skraem4\"> 4<\/a><\/li><li><a href=\"\/en\/screen5\">Screen<\/a><a href=\"\/skraem5\"> 5<\/a><\/li><li><a href=\"\/en\/screen6\">Screen<\/a><a href=\"\/skraem6\"> 6<\/a><\/li><\/ul>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ]
+}

@@ -3,3 +3,6 @@
 /html
 /drush
 .idea
+/.editorconfig
+/.gitattributes
+/file

@@ -1,0 +1,87 @@
+{
+    "uuid": [
+        {
+            "value": "4f7d806e-a1ca-4982-9211-b4d5ac9d8805"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "2b8c46b3-7eef-4a57-9ec0-217773755215"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-03-27T12:23:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "31eff9e1-5dc0-477b-84cb-be2bffa95215"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "31eff9e1-5dc0-477b-84cb-be2bffa95215"
+        }
+    ],
+    "title": [
+        {
+            "value": "Screen 6"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-03-27T08:50:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-03-27T12:23:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": false
+        }
+    ],
+    "revision_translation_affected": [],
+    "content_translation_source": [
+        {
+            "value": "da"
+        }
+    ],
+    "content_translation_outdated": [
+        {
+            "value": false
+        }
+    ],
+    "body": []
+}

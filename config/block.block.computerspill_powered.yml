@@ -1,0 +1,22 @@
+uuid: de7c4c32-b8dc-4a47-8044-ca9a7ca6a2ef
+langcode: en
+status: false
+dependencies:
+  module:
+    - system
+  theme:
+    - computerspill
+_core:
+  default_config_hash: eYL19CLDyinGTWYQfBD1DswWzglEotE_kHnHx3AxTXM
+id: computerspill_powered
+theme: computerspill
+region: content
+weight: 5
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  label_display: '0'
+  provider: system
+visibility: {  }

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "4c7545c9-cec4-4649-b358-bf704c8aaf18"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "da"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/6a483cbf-790c-4562-a530-8543b3979385"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/ipads"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

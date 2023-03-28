@@ -1,0 +1,83 @@
+{
+    "uuid": [
+        {
+            "value": "83b6082b-be9c-478c-b936-8024b1564a09"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "da"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "2b8c46b3-7eef-4a57-9ec0-217773755215"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-03-27T09:28:27+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "31eff9e1-5dc0-477b-84cb-be2bffa95215"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "31eff9e1-5dc0-477b-84cb-be2bffa95215"
+        }
+    ],
+    "title": [
+        {
+            "value": "Ipad 6"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-03-27T08:48:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-03-27T09:28:27+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "\/ipad5",
+            "langcode": "da"
+        }
+    ],
+    "body": []
+}

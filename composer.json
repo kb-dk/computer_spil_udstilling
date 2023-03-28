@@ -25,7 +25,8 @@
         "drush/drush": "^10.3",
         "drupal/tome": "^1.0",
         "drupal-tome/tome_drush": "dev-master",
-        "webflo/drupal-finder": "^1.2"
+        "webflo/drupal-finder": "^1.2",
+        "drupal-tome/bookish": "^1.0"
     },
     "scripts": {
         "symlink": "./scripts/symlink.sh",

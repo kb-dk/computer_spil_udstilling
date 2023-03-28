@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "6a483cbf-790c-4562-a530-8543b3979385"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "2b8c46b3-7eef-4a57-9ec0-217773755215"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-03-27T11:01:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "31eff9e1-5dc0-477b-84cb-be2bffa95215"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "31eff9e1-5dc0-477b-84cb-be2bffa95215"
+        }
+    ],
+    "title": [
+        {
+            "value": "Ipads"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-03-27T10:06:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-03-27T11:01:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": false
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "content_translation_source": [
+        {
+            "value": "da"
+        }
+    ],
+    "content_translation_outdated": [
+        {
+            "value": false
+        }
+    ],
+    "body": [
+        {
+            "value": "<ul><li><a href=\"\/en\/ipad1\">Ipad 1<\/a><\/li><li><a href=\"\/en\/ipad2\">Ipad 2<\/a><\/li><li><a href=\"\/en\/ipad3\">Ipad 3&nbsp;<\/a><\/li><li><a href=\"\/en\/ipad4\">Ipad 4<\/a><\/li><li><a href=\"\/en\/ipad5\">Ipad 5<\/a><\/li><li><a href=\"\/en\/ipad6\">Ipad 6<\/a><\/li><li><a href=\"\/en\/ipad7\">Ipad 7<\/a><\/li><li><a href=\"\/en\/ipad8\">Ipad 8<\/a><\/li><\/ul>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+uuid: e8d85e4f-da1e-4c53-b4e6-5a961810d623
+langcode: en
+status: false
+dependencies:
+  theme:
+    - computerspill
+_core:
+  default_config_hash: Q9_2whdOj1YIomfvsIfopROW4FT_X5pY0DjdOiOaQ5U
+id: computerspill_primary_admin_actions
+theme: computerspill
+region: content
+weight: -5
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  label_display: '0'
+  provider: core
+visibility: {  }

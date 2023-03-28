@@ -1,0 +1,14 @@
+_core:
+  default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
+langcode: en
+uuid: 466fd9fc-5415-42f9-afe0-e817e7f317ec
+name: 'Copmuter Spil Udstilling'
+mail: admin@example.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node/22
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: da

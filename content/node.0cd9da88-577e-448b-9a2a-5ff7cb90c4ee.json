@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "0cd9da88-577e-448b-9a2a-5ff7cb90c4ee"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "da"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "2b8c46b3-7eef-4a57-9ec0-217773755215"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-03-28T10:56:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "31eff9e1-5dc0-477b-84cb-be2bffa95215"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "31eff9e1-5dc0-477b-84cb-be2bffa95215"
+        }
+    ],
+    "title": [
+        {
+            "value": "Ipad 4"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-03-27T08:47:38+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-03-28T10:56:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "content_translation_source": [
+        {
+            "value": "und"
+        }
+    ],
+    "content_translation_outdated": [
+        {
+            "value": false
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam condimentum tempor augue efficitur ultrices. In eget pretium neque. Duis bibendum commodo lacus, aliquet mattis erat consequat eleifend. Donec interdum interdum sollicitudin. Cras id felis viverra, fringilla justo vitae, feugiat dui. In pulvinar purus lorem, vitae gravida quam vehicula eget. Aenean tempor magna lorem, id aliquet metus venenatis vitae. Proin fermentum porta velit, nec consectetur massa dapibus et. Ut varius elementum tempor. Donec sit amet eleifend lectus. Aliquam vel nunc non nunc ultrices cursus quis sagittis nibh.<\/p><p>&nbsp;<\/p><p>Maecenas eget rutrum tellus. Nullam nec molestie arcu. Maecenas metus magna, pulvinar nec metus eget, efficitur rutrum nulla. Nunc euismod nibh vitae lectus volutpat, sed lacinia arcu vulputate. Aliquam dignissim ex sollicitudin, ultrices ante id, fringilla erat. Curabitur elementum odio ex, vel fermentum lacus venenatis et. Vivamus ut laoreet enim. Vestibulum ornare, purus vel cursus rhoncus, justo mauris bibendum dui, et tristique massa lacus et dui. Phasellus augue ligula, pellentesque sit amet convallis laoreet, dictum vitae magna. Cras lobortis, purus id lacinia tempus, sem tellus gravida velit, eu faucibus dui ex sed mi. Mauris lobortis et justo id feugiat.<\/p><p>Donec quis nisl libero. Phasellus venenatis diam vel nisi pretium, vel maximus odio tincidunt. Nam sed quam faucibus, sodales ligula sed, imperdiet lorem. Proin ultrices enim orci, at semper est volutpat id. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Integer sagittis viverra sapien, ac lacinia mi imperdiet nec. In id accumsan diam. Sed pharetra congue semper. Fusce lacinia tortor in venenatis condimentum.<\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ]
+}

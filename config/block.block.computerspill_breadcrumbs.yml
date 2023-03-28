@@ -1,0 +1,22 @@
+uuid: eabf4aaa-e17c-4823-a9bc-a627488e94e9
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - computerspill
+_core:
+  default_config_hash: VhBzWb7lMRtIOg9G7VSw_0uopi-7zXeHq4vXqqV1HFE
+id: computerspill_breadcrumbs
+theme: computerspill
+region: breadcrumb
+weight: -7
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  label_display: '0'
+  provider: system
+visibility: {  }

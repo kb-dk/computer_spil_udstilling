@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "01dbe2c4-7781-4fdf-af31-4dbeea1e58a9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "da"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/110ff1a6-489c-43e6-99af-9527a99cf64a"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/hjaem"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
