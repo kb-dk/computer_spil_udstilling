@@ -1,0 +1,14 @@
+name: ComputerSpill
+type: theme
+base theme: stark
+description: A flexible theme with a responsive, mobile-first layout.
+core: 8.x
+core_version_requirement: ^8 || ^9
+libraries:
+  - computerspill/global
+regions:
+  header: 'Header'
+  content: 'Content'
+  footer: 'Footer'
+  breadcrumb: 'Breadcrumb'
+

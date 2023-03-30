@@ -1,9 +1,9 @@
 uuid: af52e7ec-525c-4f7a-906e-a979f44ff210
-langcode: en
+langcode: da
 status: true
 dependencies: {  }
 id: da
-label: Danish
+label: DK
 direction: ltr
-weight: 1
+weight: -10
 locked: false
