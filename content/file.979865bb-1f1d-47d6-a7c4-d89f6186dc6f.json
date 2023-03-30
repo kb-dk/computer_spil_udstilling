@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "979865bb-1f1d-47d6-a7c4-d89f6186dc6f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "da"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "31eff9e1-5dc0-477b-84cb-be2bffa95215"
+        }
+    ],
+    "filename": [
+        {
+            "value": "icons8-home-64.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2023-03\/icons8-home-64.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 963
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-03-29T07:54:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-03-29T07:54:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "6a3f6c45-264d-44e5-9bbc-1dd7f93da765"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/7d03bcf9-2755-490b-9ce2-329911aef9ec"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/enipad4"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

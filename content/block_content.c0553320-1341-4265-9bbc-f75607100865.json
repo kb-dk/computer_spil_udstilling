@@ -1,0 +1,65 @@
+{
+    "uuid": [
+        {
+            "value": "c0553320-1341-4265-9bbc-f75607100865"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "da"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "basic",
+            "target_type": "block_content_type",
+            "target_uuid": "86bde5c4-3396-42f6-b5d0-71c733153b4b"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-03-29T08:28:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "info": [
+        {
+            "value": "Hjaem skaerm 1"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-03-29T13:32:38+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "reusable": [
+        {
+            "value": true
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "body": [
+        {
+            "value": "<a href=\"\/da\/skaerm\/1\"><drupal-media data-entity-type=\"media\" data-entity-uuid=\"dec51b76-6e60-4ba8-8fd0-550c467c615d\" data-align=\"right\">&nbsp;<\/drupal-media><\/a>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ]
+}

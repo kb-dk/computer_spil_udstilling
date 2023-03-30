@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "77d5327f-16d1-4b3d-ac7f-d8e31cba9cdf"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "2b8c46b3-7eef-4a57-9ec0-217773755215"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-03-29T09:52:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "31eff9e1-5dc0-477b-84cb-be2bffa95215"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "31eff9e1-5dc0-477b-84cb-be2bffa95215"
+        }
+    ],
+    "title": [
+        {
+            "value": "1980-1990"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-03-29T09:51:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-03-29T09:52:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "content_translation_source": [
+        {
+            "value": "und"
+        }
+    ],
+    "content_translation_outdated": [
+        {
+            "value": false
+        }
+    ],
+    "body": [
+        {
+            "value": "<ul><li><a href=\"\/skraem\/1\/item\/1\">Chane reaction optagelse<\/a><\/li><li><a href=\"#\">Roto Optagelse<\/a><\/li><li><a href=\"#\">Citadel optagelse<\/a><\/li><li><a href=\"#\">DataStorm optagelse<\/a><\/li><li><a href=\"#\">Sword of Sodan<\/a><\/li><\/ul>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ]
+}
