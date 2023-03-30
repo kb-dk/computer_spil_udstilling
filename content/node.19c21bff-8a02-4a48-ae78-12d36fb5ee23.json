@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2023-03-27T09:26:48+00:00",
+            "value": "2023-03-29T12:47:41+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -42,7 +42,7 @@
     ],
     "title": [
         {
-            "value": "Skr\u00e6m3"
+            "value": "Skaerm 3"
         }
     ],
     "created": [
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2023-03-27T09:26:48+00:00",
+            "value": "2023-03-29T12:47:41+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -73,10 +73,14 @@
         }
     ],
     "revision_translation_affected": [],
-    "path": [
+    "content_translation_source": [
         {
-            "alias": "\/Skraem3",
-            "langcode": "da"
+            "value": "und"
+        }
+    ],
+    "content_translation_outdated": [
+        {
+            "value": false
         }
     ],
     "body": []

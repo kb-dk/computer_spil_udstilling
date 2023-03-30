@@ -18,7 +18,7 @@
     ],
     "revision_created": [
         {
-            "value": "2023-03-27T13:54:35+00:00",
+            "value": "2023-03-29T13:34:58+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -63,7 +63,7 @@
     ],
     "changed": [
         {
-            "value": "2023-03-27T13:54:35+00:00",
+            "value": "2023-03-29T13:34:58+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -75,7 +75,7 @@
     "revision_translation_affected": [],
     "path": [
         {
-            "alias": "",
+            "alias": "\/skaerm\/1\/item\/1",
             "langcode": "da"
         }
     ],

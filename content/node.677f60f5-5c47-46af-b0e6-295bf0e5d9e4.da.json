@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2023-03-27T10:52:16+00:00",
+            "value": "2023-03-29T13:40:27+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -42,7 +42,7 @@
     ],
     "title": [
         {
-            "value": "Skr\u00e6mer"
+            "value": "Sk\u00e6rmer"
         }
     ],
     "created": [
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2023-03-27T10:52:16+00:00",
+            "value": "2023-03-29T13:40:27+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -89,7 +89,7 @@
     ],
     "body": [
         {
-            "value": "<ul><li><a href=\"\/skraem1\">Skraem 1<\/a><\/li><li><a href=\"\/skraem1\">Skraem<\/a><a href=\"\/skraem2\"> 2<\/a><\/li><li><a href=\"\/skraem1\">Skraem<\/a><a href=\"\/skraem3\"> 3<\/a><\/li><li><a href=\"\/skraem1\">Skraem<\/a><a href=\"\/skraem4\"> 4<\/a><\/li><li><a href=\"\/skraem1\">Skraem<\/a><a href=\"\/skraem5\"> 5<\/a><\/li><li><a href=\"\/skraem1\">Skraem<\/a><a href=\"\/skraem6\"> 6<\/a><\/li><\/ul>",
+            "value": "<ul><li><a href=\"\/da\/skaerm\/1\">1980 - 1990<\/a><\/li><li><a href=\"\/da\/skaerm\/2\">Skaerm<\/a><a href=\"\/skraem2\"> 2<\/a><\/li><li><a href=\"\/da\/skaerm\/3\">Skaerm<\/a><a href=\"\/skraem3\"> 3<\/a><\/li><li><a href=\"\/da\/skaerm\/4\">Skaerm<\/a><a href=\"\/skraem4\"> 4<\/a><\/li><li><a href=\"\/da\/skaerm\/5\">Skaerm<\/a><a href=\"\/skraem5\"> 5<\/a><\/li><li><a href=\"\/da\/skaerm\/6\">Skaerm<\/a><a href=\"\/skraem6\"> 6<\/a><\/li><\/ul>",
             "format": "basic_html",
             "summary": ""
         }

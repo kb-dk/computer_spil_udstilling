@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2023-03-27T13:59:07+00:00",
+            "value": "2023-03-29T13:36:56+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2023-03-27T13:59:07+00:00",
+            "value": "2023-03-29T13:36:56+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -72,11 +72,7 @@
             "value": true
         }
     ],
-    "revision_translation_affected": [
-        {
-            "value": true
-        }
-    ],
+    "revision_translation_affected": [],
     "content_translation_source": [
         {
             "value": "und"
@@ -89,7 +85,7 @@
     ],
     "body": [
         {
-            "value": "<ul><li><a href=\"\/media\/1\">Chane reaction optagelse<\/a><\/li><li>Roto Optagelse<\/li><li>Citadel optagelse<\/li><li>DataStorm optagelse<\/li><li>Sword of Sodan<\/li><\/ul>",
+            "value": "<ul><li><a href=\"\/da\/skaerm\/1\/item\/1\">Chane reaction optagelse<\/a><\/li><li><a href=\"#\">Roto Optagelse<\/a><\/li><li><a href=\"#\">Citadel optagelse<\/a><\/li><li><a href=\"#\">DataStorm optagelse<\/a><\/li><li><a href=\"#\">Sword of Sodan<\/a><\/li><\/ul>",
             "format": "basic_html",
             "summary": ""
         }

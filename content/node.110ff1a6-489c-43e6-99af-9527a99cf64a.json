@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2023-03-27T10:56:42+00:00",
+            "value": "2023-03-29T13:04:33+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2023-03-27T10:56:42+00:00",
+            "value": "2023-03-29T13:04:33+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -72,7 +72,11 @@
             "value": true
         }
     ],
-    "revision_translation_affected": [],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
     "content_translation_source": [
         {
             "value": "und"
@@ -85,7 +89,7 @@
     ],
     "body": [
         {
-            "value": "<ul><li><a href=\"\/ipads\">Ipads<\/a><\/li><li><a href=\"\/skraemer\">Skraemer<\/a><\/li><\/ul>",
+            "value": "<ul><li><a href=\"\/da\/ipads\">Ipads<\/a><\/li><li><a href=\"\/da\/skaermer\">Skaermer<\/a><\/li><\/ul>",
             "format": "basic_html",
             "summary": ""
         }
